@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**brinza888/brinza888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ilya Bezrukov, I am 20 y.o. I am computer science and software engineering enjoyer!
 
-Here are some ideas to get you started:
+I am on the way to achieve bachelor's degree of applied mathematics and computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning `C` + `POSIX`
+- 🔭 I’m currently working on embedding Lua VM in C application
+- 🤔 I’m looking for help with `mail server setup` (postfix, dovecot, roundcube and other shit)
+- 💬 Ask me about `Python programming`
+- 📫 How to reach me
+  - Telegram: [@brinza888](https://t.me/brinza888)
+  - Email: [bezrukoff888@gmail.com](mailto:bezrukoff888@gmail.com) 
+- ⚡ Fun fact: I have been studying and practicing various programming languages for more than 8 years,
+  including Lua, Python, C#, C, C++
