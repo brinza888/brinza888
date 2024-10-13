@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ilya Bezrukov, I am 20 y.o. I am computer science and software engineering enjoyer!
+My name is Ilya Bezrukov, I am 21 y.o. I am computer science and software engineering enjoyer!
 
 I am on the way to achieve bachelor's degree of applied mathematics and computer science.
 
